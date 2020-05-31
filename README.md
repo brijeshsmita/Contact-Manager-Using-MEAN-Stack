@@ -26,7 +26,7 @@ Before you begin I recommend you to read about the basic building blocks that as
 ### Get the Code
 Either clone this repository or fork it on GitHub and clone your fork.
 ```
-  git clone https://github.com/tharunrajsoma/Contact-Manager-Using-MEAN-Stack.git
+  git clone https://github.com/brijeshsmita/Contact-Manager-Using-MEAN-Stack.git
   cd contact-list-application
 ```
 
